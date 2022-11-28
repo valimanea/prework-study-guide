@@ -12,8 +12,15 @@ footer {
 }
 
 h1,
-h2 {
+h2
+{
     text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: rgb(44, 15, 228);
+    font-size: 1.5em;
 }
 
 img {
@@ -37,7 +44,7 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    border: 5px solid green;
+    box-shadow: 5px 10px #aaddb7;
   }
   
